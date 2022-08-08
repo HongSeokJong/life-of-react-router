@@ -1,3 +1,3 @@
-# react-js-boilerplate
+# life-of-react-router
 
-참고: https://medium.com/@JedaiSaboteur/creating-a-react-app-from-scratch-f3c693b84658
+react-router-dom lifecycle

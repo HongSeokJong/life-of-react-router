@@ -1,4 +1,8 @@
 .App {
-    margin: 1rem;
-    font-family: Arial, Helvetica, sans-serif;
-  }
+  margin: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.link {
+  margin-right: 5px
+}
